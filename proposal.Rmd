@@ -1,0 +1,12 @@
+---
+title: "proposal"
+author: "Xiaoxue Cui"
+date: "2026-11-13"
+output: github_document
+---
+
+# Proposal
+
+## Group Member 
+Zhihan Xia (zx2564), Xiaoxue Cui (xc2859), Yi Lyu (yl6108), Ruichen Yang (ry2559)
+
