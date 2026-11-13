@@ -9,6 +9,9 @@ Zhihan Xia (zx2564), Xiaoxue Cui (xc2859), Yi Lyu (yl6108), Ruichen Yang
 
 ### Tentative Project Title
 
+Watershed Land Use and Lake Water Quality in U.S.: An Analysis of EPA
+NLA 2022 Data (by Yi)
+
 ### Motivation
 
 ### Intended Final Products
