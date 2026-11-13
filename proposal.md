@@ -42,6 +42,11 @@ U.S. lakes. (by Zhihan)
 
 ### Intended Final Products
 
+Our final products will include a report documenting the entire process
+of how we complete the project. We will also create an interactive
+website to present our results and key visualizations, and a two-minute
+narrated screencast summarizing our project. (by Yi)
+
 ### Anticipated Data Sources
 
 ### Planned Analyses / Visualizations
@@ -86,8 +91,14 @@ exposures and outcomes, may also present challenges.
 
 ### Planned Timeline
 
-November 6-13: Develop proposal. November 13-20: Data collection, data
-cleaning, preliminary exploratory analysis. November 20-30: Regression
-analysis, compare regional differences. December 1-12: Complete the
-draft report with visualizations and interpretation. December 12-17:
-Review and finalize the project for submission.
+November 6-13: Develop proposal.
+
+November 13-20: Data collection, data cleaning, preliminary exploratory
+analysis.
+
+November 20-30: Regression analysis, compare regional differences.
+December 1-12: Complete the draft report with visualizations and
+interpretation.
+
+December 12-17: Review and finalize the project for submission. (by
+Zhihan)

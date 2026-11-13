@@ -19,6 +19,7 @@ We focus on agricultural and developed land because they represent distinct form
 The EPA National Lakes Assessment 2022 provides an opportunity to investigate these relationships by linking landscape characteristics with water chemistry, clarity measurements, and sampling locations. We will examine whether greater proportions of agricultural and developed land are associated with higher nutrient concentrations and lower water clarity, and whether these patterns vary across geographic regions. Through maps, exploratory visualizations, and regression analyses accounting for available lake characteristics, we aim to describe how watershed land use relates to water-quality differences among sampled U.S. lakes. (by Zhihan)
 
 ### Intended Final Products
+Our final products will include a report documenting the entire process of how we complete the project. We will also create an interactive website to present our results and key visualizations, and a two-minute narrated screencast summarizing our project. (by Yi)
 
 ### Anticipated Data Sources
 
