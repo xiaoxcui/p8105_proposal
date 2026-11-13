@@ -14,6 +14,32 @@ NLA 2022 Data (by Yi)
 
 ### Motivation
 
+Across the United States, lakes form a diverse freshwater landscape,
+from the vast waters of Lake Superior to the intimate shores of Walden
+Pond—are integral to the country’s ecological and cultural landscape.
+But what lies beyond their shores may help explain differences in the
+waters themselves. How does land use within lake watersheds relate to
+nutrient concentrations and water clarity?
+
+We focus on agricultural and developed land because they represent
+distinct forms of human activity within lake watersheds. Comparing them
+allows us to examine whether different land-use patterns are associated
+with different water-quality profiles. Total nitrogen and total
+phosphorus capture nutrient concentrations, while Secchi depth measures
+water clarity. Together, these outcomes provide complementary
+perspectives on lake conditions.
+
+The EPA National Lakes Assessment 2022 provides an opportunity to
+investigate these relationships by linking landscape characteristics
+with water chemistry, clarity measurements, and sampling locations. We
+will examine whether greater proportions of agricultural and developed
+land are associated with higher nutrient concentrations and lower water
+clarity, and whether these patterns vary across geographic regions.
+Through maps, exploratory visualizations, and regression analyses
+accounting for available lake characteristics, we aim to describe how
+watershed land use relates to water-quality differences among sampled
+U.S. lakes. (by Zhihan)
+
 ### Intended Final Products
 
 ### Anticipated Data Sources
@@ -59,3 +85,9 @@ models and potential covariates, as well as fitting models with multiple
 exposures and outcomes, may also present challenges.
 
 ### Planned Timeline
+
+November 6-13: Develop proposal. November 13-20: Data collection, data
+cleaning, preliminary exploratory analysis. November 20-30: Regression
+analysis, compare regional differences. December 1-12: Complete the
+draft report with visualizations and interpretation. December 12-17:
+Review and finalize the project for submission.
