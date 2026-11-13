@@ -49,6 +49,18 @@ narrated screencast summarizing our project. (by Yi)
 
 ### Anticipated Data Sources
 
+We will use four datasets from the **EPA National Lakes Assessment (NLA)
+2022**:
+
+- NLA 2022 Landscape Data
+- NLA 2022 Water Chemistry
+- NLA 2022 Secchi Data
+- NLA 2022 Site Information
+
+**Data Source:** [EPA NLA
+2022](https://www.epa.gov/national-aquatic-resource-surveys/data-national-aquatic-resource-surveys)
+(by Ruichen)
+
 ### Planned Analyses / Visualizations
 
 1.  Exploratory Data Analysis: To understand the distribution and

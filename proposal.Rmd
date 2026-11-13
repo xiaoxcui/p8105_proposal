@@ -22,6 +22,14 @@ The EPA National Lakes Assessment 2022 provides an opportunity to investigate th
 Our final products will include a report documenting the entire process of how we complete the project. We will also create an interactive website to present our results and key visualizations, and a two-minute narrated screencast summarizing our project. (by Yi)
 
 ### Anticipated Data Sources
+We will use four datasets from the **EPA National Lakes Assessment (NLA) 2022**:
+
+- NLA 2022 Landscape Data
+- NLA 2022 Water Chemistry
+- NLA 2022 Secchi Data
+- NLA 2022 Site Information
+
+**Data Source:** [EPA NLA 2022](https://www.epa.gov/national-aquatic-resource-surveys/data-national-aquatic-resource-surveys) (by Ruichen)
 
 ### Planned Analyses / Visualizations
 
