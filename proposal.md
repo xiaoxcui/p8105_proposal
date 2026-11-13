@@ -1,6 +1,5 @@
 Proposal
 ================
-Zhihan Xia, Xiaoxue Cui, Yi Lyu, Ruichen Yang
 2026-11-13
 
 ### Group Member
@@ -16,6 +15,44 @@ Zhihan Xia (zx2564), Xiaoxue Cui (xc2859), Yi Lyu (yl6108), Ruichen Yang
 
 ### Anticipated Data Sources
 
-### Planned Analyses / Visualization / Coding Challenges
+### Planned Analyses / Visualizations
+
+1.  Exploratory Data Analysis: To understand the distribution and
+    geographical patterns of agricultural or developed land and lake
+    water quality across the United States.
+
+- Distributions of land use (agricultural or developed use) percentages,
+  total nitrogen concentration, total phosphorus concentration, and
+  Secchi depth – histograms, summary statistics
+- Examine the relationship between exposures and outcomes to check
+  linearity – scatterplots
+- Geographical patterns of land use and water quality – US map with
+  sampling locations
+
+2.  Regression Analysis: To assess the association between agricultural
+    and developed land use with nutrient concentrations and water
+    clarity.
+
+- Apply crude and adjusted linear regression models to examine the
+  associations between land use percentages and three water quality
+  indicators – coefficient plots
+
+3.  Regional Differences: To examine whether the associations between
+    land use and water quality differ by ecoregion (if the associations
+    present)
+
+- Compare the distributions of land use and water quality across
+  ecoregions – boxplots
+- Compare the correlations between land use and water quality across
+  ecoregions to identify regional differences in association strength
+  and direction – heatmap
+
+### Coding Challenges
+
+Potential coding challenges may include handling missing observations,
+constructing variables of land use percentages, and addressing skewed
+distributions and outliers. Besides, selecting appropriate regression
+models and potential covariates, as well as fitting models with multiple
+exposures and outcomes, may also present challenges.
 
 ### Planned Timeline
